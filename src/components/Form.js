@@ -124,7 +124,7 @@ const InputForm = () => {
               <option value=">">{`>`}</option>
               <option value=">=">{`>=`}</option>
               <option value="<=">{`<=`}</option>
-              <option value="=">{`>`}</option>
+              <option value="=">{`=`}</option>
             </select>
           </Form.Group>
           <Form.Group>
