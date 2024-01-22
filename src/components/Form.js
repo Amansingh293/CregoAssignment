@@ -159,7 +159,6 @@ const InputForm = () => {
               value="and"
               onChange={handleCombinator}
               style={{ marginRight: "6px" }}
-              // checked
             />
             <label htmlFor="and" style={{ marginRight: "6px" }}>
               AND
